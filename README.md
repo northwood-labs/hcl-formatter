@@ -6,6 +6,10 @@ This is the code that facilitates `terraform fmt`, and was extracted from the Te
 
 I don't expect this code to change very much, so don't freak out if there haven't been commits in years (it's not _abandoned_, it's just _complete_). It should very much still work for standard HCL2 formatting.
 
+## Contributing
+
+If you want to see changes, contribute upstream to the Terraform project. I'll occasionally review any changes between upstream and this project and merge them in.
+
 ## License and Authorship
 
 Authorship by the [Terraform Contributors](https://github.com/hashicorp/terraform/graphs/contributors). The contents of this file are licensed under the terms of the [Mozilla Public License 2.0](https://github.com/hashicorp/terraform/blob/master/LICENSE).
